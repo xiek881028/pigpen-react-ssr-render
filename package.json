@@ -1,0 +1,21 @@
+{
+  "name": "pigpen-react-ssr-render",
+  "version": "1.0.0",
+  "description": "pigpen-koa使用的react服务端渲染库。",
+  "keywords": [
+    "ssr",
+    "react"
+  ],
+  "dependencies": {
+    "pigpen-inject-assets": "^1.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "homepage": "https://github.com/xiek881028/pigpen-react-ssr-render",
+  "author": "xk285985285@qq.com",
+  "license": "MIT"
+}
