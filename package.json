@@ -7,7 +7,9 @@
     "react"
   ],
   "dependencies": {
-    "pigpen-inject-assets": "^1.0.0",
+    "pigpen-inject-assets": "^1.0.0"
+  },
+  "devDependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
