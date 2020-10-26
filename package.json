@@ -15,6 +15,10 @@
     "index.js",
     "lib"
   ],
+  "peerDependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
   "homepage": "https://github.com/xiek881028/pigpen-react-ssr-render",
   "author": "xk285985285@qq.com",
   "license": "MIT"
