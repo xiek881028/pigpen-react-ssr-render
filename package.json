@@ -1,6 +1,6 @@
 {
   "name": "pigpen-react-ssr-render",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "pigpen-koa使用的react服务端渲染库。",
   "keywords": [
     "ssr",
